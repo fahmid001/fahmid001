@@ -8,6 +8,10 @@
 - 😄 Pronouns: Fahmid
   
   <h3 align="left">Connect with me:</h3>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahmid-al-masud)
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fahmidal.masud)
+
   <a href="https://www.linkedin.com/in/fahmid-al-masud/" rel="nofollow">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
   </a>
