@@ -24,6 +24,12 @@
 
   [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
 
+  ## 🌐 Frontend Frameworks
+
+  [![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org)
+  [![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org)
+
+
   
 
 
