@@ -36,6 +36,12 @@
 
   [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 
+  ## ☁️ Cloud Platform
+
+  [![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+  [![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
+
+
   ### 📊 Project Management
 
   [![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?&style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
