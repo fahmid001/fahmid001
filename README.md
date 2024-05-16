@@ -40,6 +40,7 @@
 
   [![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?&style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
   [![Asana](https://img.shields.io/badge/Asana-%23222E31.svg?&style=for-the-badge&logo=asana&logoColor=white)](https://asana.com)
+  [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?&style=for-the-badge&logo=trello&logoColor=white)](https://trello.com)
 
   ### 📁 Version Control
 
