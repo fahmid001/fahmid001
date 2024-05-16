@@ -31,6 +31,11 @@
   [![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org)
   [![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org)
 
+  ### 🗃️ Database
+
+  [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+
+
 
   
 
