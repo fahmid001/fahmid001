@@ -14,9 +14,7 @@
 
   <h3 align="left">Technical Skills:</h3>
   
-  ###Programming
-
-  ## 🗄️ Backend
+  ### Programming
 
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
