@@ -36,6 +36,19 @@
 
   [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 
+  ### 📊 Project Management
+
+  [![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?&style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+  [![Asana](https://img.shields.io/badge/Asana-%23222E31.svg?&style=for-the-badge&logo=asana&logoColor=white)](https://asana.com)
+
+  ### 📁 Version Control
+
+  [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+  [![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com)
+  [![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org)
+
+
+
 
 
   
