@@ -20,6 +20,8 @@
   [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![Java](https://img.shields.io/badge/Java-%23E76F00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 
+  <h3 class="heading-element" dir="auto">Backend Frameworks</h3>
+  [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
   
 
 
