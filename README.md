@@ -10,4 +10,6 @@
   <h3 align="left">Connect with me:</h3>
   <a href="https://www.linkedin.com/in/fahmid-al-masud/" rel="nofollow">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-  </a> 
+  </a>
+
+  - Programming Languages: PHP, Node.js, JavaScript, TypeScript, Java
