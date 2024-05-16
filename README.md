@@ -8,6 +8,9 @@
 - 😄 Pronouns: Fahmid
   
   <h3 align="left">Connect with me:</h3>
+
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fahmid-al-masud/)
+  
   <p align="left">
   <a href="https://linkedin.com/in/fahmid-al-masud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahmid-al-masud" height="30" width="40" /></a>
   </p>
