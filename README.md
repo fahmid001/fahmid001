@@ -41,6 +41,12 @@
   [![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
   [![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
 
+  ## 🗄️ Cache
+
+  [![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+  [![Memcached](https://img.shields.io/badge/Memcached-%230A0A0A.svg?&style=for-the-badge&logo=memcached&logoColor=white)](https://memcached.org)
+
+
 
   ### 📊 Project Management
 
