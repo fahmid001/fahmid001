@@ -30,6 +30,7 @@
 
   [![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org)
   [![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org)
+  [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 
   ### 🗃️ Database
 
