@@ -20,11 +20,13 @@
   [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![Java](https://img.shields.io/badge/Java-%23E76F00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 
-  <h3 class="heading-element" dir="auto">Backend Frameworks</h3>
+  ### 🛠️ Backend Frameworks
 
   [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+  [![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EE4623.svg?&style=for-the-badge&logo=codeigniter&logoColor=white)](https://codeigniter.com)
+  [![CakePHP](https://img.shields.io/badge/CakePHP-%238A1B61.svg?&style=for-the-badge&logo=cakephp&logoColor=white)](https://cakephp.org)
 
-  ## 🌐 Frontend Frameworks
+  ### 🌐 Frontend Frameworks
 
   [![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org)
   [![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org)
